@@ -7,5 +7,16 @@
     "test": "jest"
   },
   "author": "Job Villanca",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jobdecrypt/Unit-Test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jobdecrypt/Unit-Test/issues"
+  },
+  "homepage": "https://github.com/jobdecrypt/Unit-Test#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
 }
